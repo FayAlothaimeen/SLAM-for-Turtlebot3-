@@ -5,9 +5,9 @@
 write this code in your terminal:
 
 #for run roscore 
-
+```
 $ roscore
-
+```
 #for bring up basic packages to start TurtleBot3 applications.
 
 $ roslaunch turtlebot3_bringup turtlebot3_robot.launch
