@@ -16,6 +16,7 @@ then open a new terminal and launch the SLAM file.
 ```
 $ export TURTLEBOT3_MODEL=${TB3_MODEL}
 ```
+```
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 Save Map:  
