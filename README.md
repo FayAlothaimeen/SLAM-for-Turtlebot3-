@@ -1,5 +1,8 @@
 # SLAM-for-Turtlebot3
 
+The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by estimating current location in an arbitrary space. The SLAM is a well-known feature of TurtleBot from its predecessors.
+
+
 -Run SLAM Nodes: 
 
 write this code in your terminal:
