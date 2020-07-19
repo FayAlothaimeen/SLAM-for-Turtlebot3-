@@ -7,11 +7,11 @@ The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by
 
 write this code in your terminal:
 
-#for run roscore 
+#For run roscore 
 ```
 $ roscore
 ```
-#for bring up basic packages to start TurtleBot3 applications.
+#For bring up basic packages to start TurtleBot3 applications.
 ```
 $ roslaunch turtlebot3_bringup turtlebot3_robot.launch
 ```
